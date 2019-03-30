@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBlobStorage", "AzureBlobStorage\AzureBlobStorage.csproj", "{1AF8BE66-A44D-4DCF-A80E-9E61F9E5EA07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebJob", "WebJob\WebJob.csproj", "{57DB6FD0-B1F5-4D45-BE3C-AA93FCE410DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AF8BE66-A44D-4DCF-A80E-9E61F9E5EA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF8BE66-A44D-4DCF-A80E-9E61F9E5EA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF8BE66-A44D-4DCF-A80E-9E61F9E5EA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF8BE66-A44D-4DCF-A80E-9E61F9E5EA07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57DB6FD0-B1F5-4D45-BE3C-AA93FCE410DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57DB6FD0-B1F5-4D45-BE3C-AA93FCE410DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57DB6FD0-B1F5-4D45-BE3C-AA93FCE410DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57DB6FD0-B1F5-4D45-BE3C-AA93FCE410DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72F1FA16-2AC0-4FFF-8614-BBF22779FDE9}
+	EndGlobalSection
+EndGlobal
